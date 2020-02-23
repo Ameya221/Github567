@@ -4,4 +4,4 @@ python:
 
 # command to run tests
 script:
- - python -m unittest github_unit_test
+ - pytest github_unit_test
